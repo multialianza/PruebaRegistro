@@ -23,5 +23,5 @@ Ejemplo de un  README:
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
+* [Licencia](#licencia)xx
 
